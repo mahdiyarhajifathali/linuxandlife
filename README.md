@@ -23,6 +23,7 @@ title: "the name of article"
 Here's an example:
 ```
 ---
+
 layout: article
 chapter: اصول و مقدمات
 order: 1
